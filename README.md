@@ -6,5 +6,5 @@ written in [ES6](https://github.com/lukehoban/es6features#readme) syntax.
 $ git clone https://github.com/davvo/hello-react-es6.git
 $ cd hello-react-es6
 $ npm install
-$ gulp
+$ npm start
 ```
